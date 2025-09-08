@@ -1,0 +1,1 @@
+az vm resize --resource-group <RESOURCE_GROUP> --name <VM_NAME> --size <NEW_SIZE>
