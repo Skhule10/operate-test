@@ -1,1 +1,1 @@
-ALTER SYSTEM ALTER CONFIGURATION ('global.ini', 'memorymanagement', 'all') SET ('SYSTEM MEMORY') = '<desired_memory_size>'
+Update CPU affinity settings in 'global.ini' for preferred scheduling
