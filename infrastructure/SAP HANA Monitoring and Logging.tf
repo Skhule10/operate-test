@@ -1,0 +1,1 @@
+sudo configure-hana-logging.sh --include-detail=yes
