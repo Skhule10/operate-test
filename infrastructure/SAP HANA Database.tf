@@ -1,1 +1,1 @@
-Update CPU affinity settings in 'global.ini' for preferred scheduling
+Use 'PARTITION BY HASH' or 'PARTITION BY RANGE' for optimal throughput
