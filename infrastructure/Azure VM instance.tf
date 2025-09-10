@@ -1,0 +1,1 @@
+az vm update --resource-group <ResourceGroupName> --name <VMName> --set hardwareProfile.vmSize=Standard_E32s_v3
