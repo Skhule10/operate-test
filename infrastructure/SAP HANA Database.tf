@@ -1,0 +1,1 @@
+ALTER SYSTEM ALTER CONFIGURATION ('global.ini', 'memorymanagement', 'all') SET ('SYSTEM MEMORY') = '<desired_memory_size>'
