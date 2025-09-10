@@ -1,0 +1,1 @@
+Use 'PARTITION BY HASH' or 'PARTITION BY RANGE' for optimal throughput
